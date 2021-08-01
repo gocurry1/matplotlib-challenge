@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-Repository includes pymaceuticals_matplotlib.ipynb which analyzes mouse_metadata.csv and study_results.csv which are both located in the data folder. 
+Repository includes pymaceuticals_matplotlib.ipynb which analyzes mouse_metadata.csv and study_results.csv. 
 
 
 
